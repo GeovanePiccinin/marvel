@@ -1,5 +1,5 @@
 import React from 'react'
-import { Text, TouchableOpacity, View, FlatList, Image, PanResponder } from 'react-native'
+import { Text, TouchableOpacity, View, FlatList, Image } from 'react-native'
 import md5 from 'js-md5'
 
 const PUBLIC_KEY = 'af4b4566925ba7ba9e73e60273ee76b5'
